@@ -7,6 +7,7 @@ This repository is used for testing MCP Server tools and functionality. It serve
 - Test MCP Server tools
 - Validate GitHub integration
 - Explore MCP functionality
+- Test Git attribution
 
 ## Features
 
