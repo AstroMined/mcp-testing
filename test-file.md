@@ -1,1 +1,8 @@
-IyBUZXN0IEZpbGUKClRoaXMgZmlsZSB3YXMgY3JlYXRlZCB1c2luZyB0aGUgR2l0SHViIE1DUCBzZXJ2ZXIncyBjcmVhdGVfb3JfdXBkYXRlX2ZpbGUgdG9vbC4KCiMjIFB1cnBvc2UKLSBWZXJpZnkgZmlsZSBjcmVhdGlvbiBmdW5jdGlvbmFsaXR5Ci0gVGVzdCBjb250ZW50IGVuY29kaW5nCi0gVmFsaWRhdGUgYnJhbmNoIG9wZXJhdGlvbnM=
+# Test File
+
+This file was created using the GitHub MCP server's push_files tool.
+
+## Purpose
+- Verify file creation functionality
+- Test content encoding
+- Validate branch operations
